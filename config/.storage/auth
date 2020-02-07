@@ -1,0 +1,87 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "ivana"
+                },
+                "id": "771c86decccb4d6cbcf4b77fb6d4d881",
+                "user_id": "89a2d1feb8f948d18e00390c1d4c98a8"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-users",
+                "name": "Users"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://localhost:8123/",
+                "client_name": null,
+                "created_at": "2020-02-07T14:30:10.591608+00:00",
+                "id": "406097f3b4dc46b3ad1d3135875443c0",
+                "jwt_key": "0fda8291047e5f8a8988c631d48d51165337ce1067f7ab5295c7765e70920382edb1a521a509f682023b52bd50d234b4371238fe066280b15ba2b8f61ca8db25",
+                "last_used_at": "2020-02-07T14:30:10.591690+00:00",
+                "last_used_ip": "172.31.0.1",
+                "token": "8986e0e3ffb0e438c67019dd057d5f71571f6a1e5f44a9beba7fb570ab08b354eab9326996944225f76bb2227259ef1af8f7a82abdba6d3133ee62d8aaf36c09",
+                "token_type": "normal",
+                "user_id": "89a2d1feb8f948d18e00390c1d4c98a8"
+            },
+            {
+                "access_token_expiration": 315360000.0,
+                "client_icon": null,
+                "client_id": null,
+                "client_name": "prometheus",
+                "created_at": "2020-02-07T14:30:48.428097+00:00",
+                "id": "791cc7259d494969bb3a4a7fb1d89bd7",
+                "jwt_key": "a45ccd88247774e7856f2ca04d0eb8fb2eec72125c3db9404ab54419f8869f21df55c761296e10b0da0d9f22572b7cc00054e407085fd0407d2a7f866ea08b6d",
+                "last_used_at": "2020-02-07T14:30:48.428536+00:00",
+                "last_used_ip": null,
+                "token": "11e3d3034e4631f6e975d4c1ff602d7afb7df4f6ffc3c5f9cc113c8cccc6175613bd7353e19f3bc92e81cb84285420e8b4f62620b05b00bd3119071ef29b0474",
+                "token_type": "long_lived_access_token",
+                "user_id": "89a2d1feb8f948d18e00390c1d4c98a8"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://localhost:8123/",
+                "client_name": null,
+                "created_at": "2020-02-07T14:32:20.636603+00:00",
+                "id": "5b3579b469dd494fa4afc88b44c80994",
+                "jwt_key": "54a6709584992291ef59a7109d66608a1e4c333dcb2aad0b35bf5201bfa07d9eb0e7b64add2342ee29e3bf7a9c963684f7446a9ebfad9f94b56150b4c89dfef0",
+                "last_used_at": "2020-02-07T20:10:59.516831+00:00",
+                "last_used_ip": "172.31.0.1",
+                "token": "b7b59bfaf6059655ca32c5a8bf4008fd502c69304ae955841b75727fe405799b5a161632a1d7d47e66da6340e081f49ce43e95b496dfa25b0183b5b634ed13dd",
+                "token_type": "normal",
+                "user_id": "89a2d1feb8f948d18e00390c1d4c98a8"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "89a2d1feb8f948d18e00390c1d4c98a8",
+                "is_active": true,
+                "is_owner": true,
+                "name": "Ivana",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}

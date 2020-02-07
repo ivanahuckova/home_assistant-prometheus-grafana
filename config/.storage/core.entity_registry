@@ -1,0 +1,236 @@
+{
+    "data": {
+        "entities": [
+            {
+                "capabilities": {},
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.updater",
+                "name": null,
+                "platform": "updater",
+                "supported_features": 0,
+                "unique_id": "updater",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.ivana",
+                "name": null,
+                "platform": "person",
+                "supported_features": 0,
+                "unique_id": "ivana",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": "7f88f8201dda430ab7a27da1da1efced",
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "weather.home",
+                "name": null,
+                "platform": "met",
+                "supported_features": 0,
+                "unique_id": "home",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "6f9928fca0d64fc2b20aae023cf5ce4f",
+                "disabled_by": null,
+                "entity_id": "light.living_room_main",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 43,
+                "unique_id": "68:0a:e2:ff:fe:38:c5:34-01",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "6f22f396792c43148ce7a3b8c0f2e1c9",
+                "disabled_by": null,
+                "entity_id": "light.hallway_1",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 43,
+                "unique_id": "14:b4:57:ff:fe:43:83:8d-01",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "5efb26810d7e4a0bad16cab03c91fe6f",
+                "disabled_by": null,
+                "entity_id": "light.toilet",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 41,
+                "unique_id": "14:b4:57:ff:fe:c6:73:13-01",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "e0f8354c3e89473fa489cb9142f39af1",
+                "disabled_by": null,
+                "entity_id": "light.hallway_2",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 43,
+                "unique_id": "ec:1b:bd:ff:fe:b7:e3:2f-01",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "dbd24f7b6add4e24ac0f48a6db520073",
+                "disabled_by": null,
+                "entity_id": "light.bedroom_main",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 43,
+                "unique_id": "14:b4:57:ff:fe:43:84:cf-01",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "effect_list": [
+                        "colorloop",
+                        "random"
+                    ]
+                },
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "df2951edfc8b4c7f9a9e960facac30de",
+                "disabled_by": null,
+                "entity_id": "light.living_room_sofa",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 61,
+                "unique_id": "ec:1b:bd:ff:fe:19:ad:46-01",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "037a40ce4eb145019f9fbd73d96a4ba3",
+                "disabled_by": null,
+                "entity_id": "light.bathroom_main",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 43,
+                "unique_id": "14:b4:57:ff:fe:4f:46:d1-01",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "effect_list": [
+                        "colorloop",
+                        "random"
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "3534a8bda7164702adddbd24fffb017d",
+                "disabled_by": null,
+                "entity_id": "light.hue_color_spot_3",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 63,
+                "unique_id": "00:17:88:01:10:3c:21:0d-0b",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "effect_list": [
+                        "colorloop",
+                        "random"
+                    ]
+                },
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "f1addbef75bb4d8496f267985465d340",
+                "disabled_by": null,
+                "entity_id": "light.living_room_desk",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 61,
+                "unique_id": "cc:cc:cc:ff:fe:e0:68:3a-01",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "effect_list": [
+                        "colorloop",
+                        "random"
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "e6f8e6dffa9d45e2bea1ad0d49731993",
+                "disabled_by": null,
+                "entity_id": "light.bedroom_peter",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 63,
+                "unique_id": "00:17:88:01:10:3c:21:e4-0b",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "effect_list": [
+                        "colorloop",
+                        "random"
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "device_class": null,
+                "device_id": "4e7e1225a50945168c4551fc9504d435",
+                "disabled_by": null,
+                "entity_id": "light.bedroom_ivka",
+                "name": null,
+                "platform": "hue",
+                "supported_features": 63,
+                "unique_id": "00:17:88:01:10:3c:20:dc-0b",
+                "unit_of_measurement": null
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

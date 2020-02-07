@@ -1,0 +1,253 @@
+{
+    "data": {
+        "devices": [
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:26:90:86"
+                    ]
+                ],
+                "id": "e3c567ed32b4420ba11c227967ade8c5",
+                "identifiers": [
+                    [
+                        "hue",
+                        "001788FFFE269086"
+                    ]
+                ],
+                "manufacturer": "Signify",
+                "model": "BSB002",
+                "name": "Philips hue",
+                "name_by_user": null,
+                "sw_version": "1935144040",
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "6f9928fca0d64fc2b20aae023cf5ce4f",
+                "identifiers": [
+                    [
+                        "hue",
+                        "68:0a:e2:ff:fe:38:c5:34-01"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "Color temperature light",
+                "name": "Living room main",
+                "name_by_user": null,
+                "sw_version": "2.0.022",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "6f22f396792c43148ce7a3b8c0f2e1c9",
+                "identifiers": [
+                    [
+                        "hue",
+                        "14:b4:57:ff:fe:43:83:8d-01"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "Color temperature light",
+                "name": "Hallway 1",
+                "name_by_user": null,
+                "sw_version": "2.0.022",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "5efb26810d7e4a0bad16cab03c91fe6f",
+                "identifiers": [
+                    [
+                        "hue",
+                        "14:b4:57:ff:fe:c6:73:13-01"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "Dimmable light",
+                "name": "Toilet",
+                "name_by_user": null,
+                "sw_version": "2.1.022",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "e0f8354c3e89473fa489cb9142f39af1",
+                "identifiers": [
+                    [
+                        "hue",
+                        "ec:1b:bd:ff:fe:b7:e3:2f-01"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "Color temperature light",
+                "name": "Hallway 2",
+                "name_by_user": null,
+                "sw_version": "2.0.022",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "dbd24f7b6add4e24ac0f48a6db520073",
+                "identifiers": [
+                    [
+                        "hue",
+                        "14:b4:57:ff:fe:43:84:cf-01"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "Color temperature light",
+                "name": "Bedroom main",
+                "name_by_user": null,
+                "sw_version": "2.0.022",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "df2951edfc8b4c7f9a9e960facac30de",
+                "identifiers": [
+                    [
+                        "hue",
+                        "ec:1b:bd:ff:fe:19:ad:46-01"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "Color light",
+                "name": "Living room sofa",
+                "name_by_user": null,
+                "sw_version": "1.3.002",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "037a40ce4eb145019f9fbd73d96a4ba3",
+                "identifiers": [
+                    [
+                        "hue",
+                        "14:b4:57:ff:fe:4f:46:d1-01"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "Color temperature light",
+                "name": "Bathroom main",
+                "name_by_user": null,
+                "sw_version": "2.1.022",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "3534a8bda7164702adddbd24fffb017d",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:10:3c:21:0d-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue color spot",
+                "name": "Hue color spot 3",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "f1addbef75bb4d8496f267985465d340",
+                "identifiers": [
+                    [
+                        "hue",
+                        "cc:cc:cc:ff:fe:e0:68:3a-01"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "Color light",
+                "name": "Living room desk",
+                "name_by_user": null,
+                "sw_version": "1.3.002",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "e6f8e6dffa9d45e2bea1ad0d49731993",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:10:3c:21:e4-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue color spot",
+                "name": "Bedroom Peter",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "8ff1eca2ba9043ed9e7929bfeb069411"
+                ],
+                "connections": [],
+                "id": "4e7e1225a50945168c4551fc9504d435",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:10:3c:20:dc-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue color spot",
+                "name": "Bedroom Ivka",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "e3c567ed32b4420ba11c227967ade8c5"
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}

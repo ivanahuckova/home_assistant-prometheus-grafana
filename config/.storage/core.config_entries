@@ -1,0 +1,41 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "track_home": true
+                },
+                "domain": "met",
+                "entry_id": "7f88f8201dda430ab7a27da1da1efced",
+                "options": {},
+                "source": "onboarding",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Home",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "host": "192.168.0.220",
+                    "username": "hTK-Yix3YhhOVYFvEmTkAOsauPI-3vaikMk8iMkQ"
+                },
+                "domain": "hue",
+                "entry_id": "8ff1eca2ba9043ed9e7929bfeb069411",
+                "options": {},
+                "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Philips hue",
+                "unique_id": "001788269086",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

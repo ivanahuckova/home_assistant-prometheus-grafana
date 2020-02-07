@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "last_seen": "2020-02-07T20:40:03.011438+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Ivana",
+                    "id": "ivana",
+                    "user_id": "89a2d1feb8f948d18e00390c1d4c98a8"
+                },
+                "context": {
+                    "id": "7e10d5663d8d4588b1e8b66c7ae8d935",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.ivana",
+                "last_changed": "2020-02-07T14:38:26.186248+00:00",
+                "last_updated": "2020-02-07T14:38:31.910865+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}
